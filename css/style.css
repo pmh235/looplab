@@ -1,0 +1,48 @@
+#carousel .carousel-item {
+  height: 480px; }
+
+.navbar .active {
+  border-bottom: white 3px solid; }
+
+.fa {
+  font-size: 55px; }
+
+#info, #contact {
+  background: url("../assets/image4.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white; }
+
+#video {
+  background: url("../assets/image5.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat; }
+  #video a {
+    color: white; }
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.6); }
+
+footer {
+  background: black; }
+
+#about {
+  background: url("../assets/image2.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white; }
+
+#service {
+  background: url("../assets/image1.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white; }
+
+#blog {
+  background: url("../assets/image3.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white; }
+
+#faq .card {
+  background: #333333; }
